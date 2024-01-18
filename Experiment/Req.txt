@@ -1,0 +1,7 @@
+matplotlib
+opencv-python
+pandas
+numpy
+scikit-learn
+imageio
+progress
